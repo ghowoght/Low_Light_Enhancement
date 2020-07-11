@@ -1,0 +1,257 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ce_out",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelOut_2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlOut_hStart",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlOut_hEnd",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlOut_vStart",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlOut_vEnd",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlOut_valid",
+					"strict" : false
+				},
+				{
+					"name" : "clk_enable",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlIn_vStart",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlIn_valid",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlIn_vEnd",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlIn_hStart",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pixelIn_2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrlIn_hEnd",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Thu Jul 09 14:24:55 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : LLEHDL
+Top-level Entity Name : LLEHDL
+Family : Cyclone IV GX
+Total logic elements : 9,418
+    Total combinational functions : 5,207
+    Dedicated logic registers : 7,216
+Total registers : 7216
+Total pins : 62
+Total virtual pins : 0
+Total memory bits : 527,046
+Embedded Multiplier 9-bit elements : 30
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0
